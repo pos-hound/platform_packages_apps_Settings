@@ -228,6 +228,14 @@
             android:title="@string/vibrate_icon_title"
             android:order="-27"/>
 
+        <!-- Volume slider haptic -->
+        <com.android.settings.custom.preference.SystemSettingSwitchPreference
+            android:key="volume_slider_haptic"
+            android:title="@string/volume_slider_haptic_title"
+            android:summary="@string/volume_slider_haptic_summary"
+            android:defaultValue="false"
+            android:order="-26"/>
+
         <!-- Dock speaker plays -->
         <ListPreference
             android:key="dock_audio_media"

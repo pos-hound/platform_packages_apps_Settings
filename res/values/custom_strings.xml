@@ -386,4 +386,8 @@
     <string name="doze_peek_title">AOD Peek</string>
     <string name="doze_peek_summary">Show ambient display briefly when the screen turns off</string>
     <string name="doze_peek_duration_title">Peek duration</string>
+
+    <!-- Volume slider haptic -->
+    <string name="volume_slider_haptic_title">Volume slider haptic</string>
+    <string name="volume_slider_haptic_summary">Vibrate when adjusting volume slider</string>
 </resources>
